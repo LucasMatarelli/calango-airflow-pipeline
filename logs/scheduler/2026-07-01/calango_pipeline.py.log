@@ -1,0 +1,291 @@
+[2026-07-01T12:08:58.128+0000] {processor.py:161} INFO - Started process (PID=68) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:08:58.137+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:08:58.150+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:08:58.149+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:08:58.229+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:08:58.617+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:08:58.616+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:pipeline_calango_investimentos
+[2026-07-01T12:08:58.649+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:08:58.648+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:pipeline_calango_investimentos
+[2026-07-01T12:08:58.672+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:08:58.672+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:pipeline_calango_investimentos
+[2026-07-01T12:08:58.675+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:08:58.674+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:08:58.710+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:08:58.709+0000] {dag.py:3058} INFO - Creating ORM DAG for pipeline_calango_investimentos
+[2026-07-01T12:08:58.714+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:08:58.714+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:08:58.776+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.663 seconds
+[2026-07-01T12:09:29.418+0000] {processor.py:161} INFO - Started process (PID=124) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:09:29.423+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:09:29.431+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:09:29.430+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:09:29.481+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:09:29.547+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:09:29.547+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:09:29.585+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:09:29.585+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:09:29.660+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.256 seconds
+[2026-07-01T12:10:00.097+0000] {processor.py:161} INFO - Started process (PID=180) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:10:00.099+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:10:00.105+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:10:00.104+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:10:00.143+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:10:00.201+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:10:00.200+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:10:00.232+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:10:00.232+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:10:00.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.194 seconds
+[2026-07-01T12:10:30.815+0000] {processor.py:161} INFO - Started process (PID=237) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:10:30.819+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:10:30.824+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:10:30.823+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:10:30.857+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:10:30.903+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:10:30.902+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:10:30.929+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:10:30.929+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:10:30.976+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.171 seconds
+[2026-07-01T12:11:01.688+0000] {processor.py:161} INFO - Started process (PID=304) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:11:01.692+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:11:01.700+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:11:01.699+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:11:01.742+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:11:01.808+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:11:01.807+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:11:01.846+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:11:01.846+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:11:01.914+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.241 seconds
+[2026-07-01T12:11:32.210+0000] {processor.py:161} INFO - Started process (PID=360) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:11:32.214+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:11:32.221+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:11:32.220+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:11:32.262+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:11:32.315+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:11:32.315+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:11:32.346+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:11:32.345+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:11:32.397+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.198 seconds
+[2026-07-01T12:12:02.735+0000] {processor.py:161} INFO - Started process (PID=416) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:12:02.738+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:12:02.744+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:12:02.744+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:12:02.782+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:12:02.835+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:12:02.835+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:12:02.868+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:12:02.867+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:12:02.917+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.191 seconds
+[2026-07-01T12:12:33.408+0000] {processor.py:161} INFO - Started process (PID=472) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:12:33.412+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:12:33.420+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:12:33.419+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:12:33.462+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:12:33.517+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:12:33.516+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:12:33.548+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:12:33.548+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:12:33.595+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.201 seconds
+[2026-07-01T12:13:03.972+0000] {processor.py:161} INFO - Started process (PID=528) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:13:03.975+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:13:03.986+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:13:03.985+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:13:04.045+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:13:04.117+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:13:04.116+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:13:04.169+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:13:04.168+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:13:04.276+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.321 seconds
+[2026-07-01T12:13:34.906+0000] {processor.py:161} INFO - Started process (PID=584) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:13:34.911+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:13:34.919+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:13:34.918+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:13:34.966+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:13:35.028+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:13:35.028+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:13:35.064+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:13:35.063+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:13:35.118+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.230 seconds
+[2026-07-01T12:14:05.251+0000] {processor.py:161} INFO - Started process (PID=640) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:14:05.255+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:14:05.263+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:14:05.262+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:14:05.307+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:14:05.396+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:14:05.395+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:14:05.439+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:14:05.438+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:14:05.492+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.253 seconds
+[2026-07-01T12:14:35.731+0000] {processor.py:161} INFO - Started process (PID=696) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:14:35.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:14:35.741+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:14:35.740+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:14:35.778+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:14:35.841+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:14:35.840+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:14:35.878+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:14:35.877+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:14:35.935+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.217 seconds
+[2026-07-01T12:15:06.372+0000] {processor.py:161} INFO - Started process (PID=753) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:15:06.376+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:15:06.383+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:15:06.382+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:15:06.421+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:15:06.472+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:15:06.472+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:15:06.503+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:15:06.503+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:15:06.553+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.188 seconds
+[2026-07-01T12:15:36.937+0000] {processor.py:161} INFO - Started process (PID=809) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:15:36.940+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:15:36.946+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:15:36.946+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:15:36.984+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:15:37.044+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:15:37.044+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:15:37.081+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:15:37.080+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:15:37.135+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.210 seconds
+[2026-07-01T12:16:08.047+0000] {processor.py:161} INFO - Started process (PID=865) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:16:08.050+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:16:08.056+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:16:08.055+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:16:08.096+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:16:08.144+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:16:08.143+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:16:08.174+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:16:08.173+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:16:08.215+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.178 seconds
+[2026-07-01T12:16:38.560+0000] {processor.py:161} INFO - Started process (PID=921) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:16:38.563+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:16:38.570+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:16:38.569+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:16:38.615+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:16:38.676+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:16:38.676+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:16:38.713+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:16:38.713+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:16:38.770+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.219 seconds
+[2026-07-01T12:17:09.090+0000] {processor.py:161} INFO - Started process (PID=977) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:17:09.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:17:09.098+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:17:09.097+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:17:09.134+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:17:09.186+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:17:09.185+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:17:09.221+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:17:09.220+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:17:09.271+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.189 seconds
+[2026-07-01T12:17:39.879+0000] {processor.py:161} INFO - Started process (PID=1033) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:17:39.882+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:17:39.888+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:17:39.887+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:17:39.922+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:17:39.969+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:17:39.968+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:17:39.997+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:17:39.996+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:17:40.042+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.174 seconds
+[2026-07-01T12:18:10.719+0000] {processor.py:161} INFO - Started process (PID=1089) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:18:10.725+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:18:10.733+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:18:10.732+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:18:10.781+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:18:10.855+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:18:10.854+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:18:10.898+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:18:10.897+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:18:10.969+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.272 seconds
+[2026-07-01T12:18:41.196+0000] {processor.py:161} INFO - Started process (PID=1145) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:18:41.201+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:18:41.208+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:18:41.207+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:18:41.251+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:18:41.307+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:18:41.307+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:18:41.341+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:18:41.341+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:18:41.401+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.219 seconds
+[2026-07-01T12:19:12.209+0000] {processor.py:161} INFO - Started process (PID=1201) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:19:12.218+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:19:12.236+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:19:12.234+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:19:12.322+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:19:12.387+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:19:12.386+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:19:12.430+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:19:12.429+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:19:12.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.348 seconds
+[2026-07-01T12:19:42.951+0000] {processor.py:161} INFO - Started process (PID=1255) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:19:42.955+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:19:42.964+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:19:42.963+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:19:43.020+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:19:43.589+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:19:43.588+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:19:43.628+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:19:43.628+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:19:43.710+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.771 seconds
+[2026-07-01T12:20:13.877+0000] {processor.py:161} INFO - Started process (PID=1310) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:20:13.899+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:20:13.937+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:20:13.934+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:20:13.990+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:20:14.080+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:20:14.079+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:20:14.127+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:20:14.126+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:20:14.226+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.377 seconds
+[2026-07-01T12:20:45.049+0000] {processor.py:161} INFO - Started process (PID=1366) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:20:45.058+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:20:45.087+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:20:45.086+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:20:45.295+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:20:45.767+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:20:45.765+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:20:45.905+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:20:45.904+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:20:46.050+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 1.060 seconds
+[2026-07-01T12:21:16.143+0000] {processor.py:161} INFO - Started process (PID=1422) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:21:16.146+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:21:16.151+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:21:16.150+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:21:16.188+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:21:16.243+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:21:16.242+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:21:16.273+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:21:16.273+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:21:16.319+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.185 seconds
+[2026-07-01T12:21:46.569+0000] {processor.py:161} INFO - Started process (PID=1478) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:21:46.573+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:21:46.579+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:21:46.578+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:21:46.618+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:21:46.671+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:21:46.670+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:21:46.702+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:21:46.701+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:21:46.749+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.190 seconds
+[2026-07-01T12:22:16.899+0000] {processor.py:161} INFO - Started process (PID=1534) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:22:16.903+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:22:16.912+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:22:16.911+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:22:16.959+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:22:17.008+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:22:17.008+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:22:17.041+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:22:17.040+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:22:17.083+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.196 seconds
+[2026-07-01T12:22:47.459+0000] {processor.py:161} INFO - Started process (PID=1590) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:22:47.463+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:22:47.470+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:22:47.469+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:22:47.513+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:22:47.562+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:22:47.561+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:22:47.591+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:22:47.590+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:22:47.634+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.183 seconds
+[2026-07-01T12:23:18.060+0000] {processor.py:161} INFO - Started process (PID=1646) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:23:18.063+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:23:18.071+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:23:18.070+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:23:18.114+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:23:18.166+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:23:18.165+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:23:18.200+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:23:18.199+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:23:18.251+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.199 seconds
+[2026-07-01T12:23:49.003+0000] {processor.py:161} INFO - Started process (PID=1702) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:23:49.037+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:23:49.043+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:23:49.043+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:23:49.133+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:23:49.185+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:23:49.184+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:23:49.225+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:23:49.224+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:23:49.301+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.307 seconds
+[2026-07-01T12:24:19.620+0000] {processor.py:161} INFO - Started process (PID=1758) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:24:19.624+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:24:19.630+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:24:19.630+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:24:19.672+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:24:19.722+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:24:19.722+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:24:19.752+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:24:19.752+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:24:19.793+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.181 seconds
+[2026-07-01T12:24:49.889+0000] {processor.py:161} INFO - Started process (PID=1814) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:24:49.893+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:24:49.901+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:24:49.900+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:24:49.951+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:24:50.010+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:24:50.010+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:24:50.046+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:24:50.045+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:24:50.100+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.218 seconds
+[2026-07-01T12:25:20.964+0000] {processor.py:161} INFO - Started process (PID=1870) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:25:20.967+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:25:20.975+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:25:20.974+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:25:21.016+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:25:21.063+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:25:21.063+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:25:21.094+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:25:21.094+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:25:21.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.207 seconds
+[2026-07-01T12:25:51.776+0000] {processor.py:161} INFO - Started process (PID=1926) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:25:51.781+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:25:51.789+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:25:51.789+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:25:51.862+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:25:51.954+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:25:51.954+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:25:52.002+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:25:52.002+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:25:52.068+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.306 seconds
+[2026-07-01T12:26:22.150+0000] {processor.py:161} INFO - Started process (PID=1982) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:26:22.153+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:26:22.159+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:26:22.159+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:26:22.192+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:26:22.247+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:26:22.247+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:26:22.279+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:26:22.278+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:26:22.325+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.182 seconds
+[2026-07-01T12:26:52.812+0000] {processor.py:161} INFO - Started process (PID=2038) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:26:52.815+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:26:52.820+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:26:52.820+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:26:52.857+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:26:52.906+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:26:52.906+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:26:52.940+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:26:52.939+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:26:53.015+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.212 seconds
+[2026-07-01T12:27:24.089+0000] {processor.py:161} INFO - Started process (PID=2094) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:27:24.096+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:27:24.103+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:27:24.103+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:27:24.171+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:27:24.254+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:27:24.253+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:27:24.319+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:27:24.318+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:27:24.395+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.317 seconds
+[2026-07-01T12:27:55.385+0000] {processor.py:161} INFO - Started process (PID=2150) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:27:55.391+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:27:55.399+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:27:55.397+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:27:55.469+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:27:55.522+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:27:55.521+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:27:55.554+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:27:55.554+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:27:55.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.223 seconds
+[2026-07-01T12:28:25.716+0000] {processor.py:161} INFO - Started process (PID=2206) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:28:25.718+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:28:25.725+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:28:25.724+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:28:25.760+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:28:25.806+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:28:25.805+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:28:25.834+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:28:25.834+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:28:25.877+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.169 seconds
+[2026-07-01T12:28:56.044+0000] {processor.py:161} INFO - Started process (PID=2263) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:28:56.047+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:28:56.054+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:28:56.053+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:28:56.089+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:28:56.142+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:28:56.141+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:28:56.172+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:28:56.171+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:28:56.217+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.182 seconds
+[2026-07-01T12:29:26.493+0000] {processor.py:161} INFO - Started process (PID=2320) to work on /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:29:26.497+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/calango_pipeline.py for tasks to queue
+[2026-07-01T12:29:26.503+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:29:26.503+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:29:26.562+0000] {processor.py:840} INFO - DAG(s) 'pipeline_calango_investimentos' retrieved from /opt/airflow/dags/calango_pipeline.py
+[2026-07-01T12:29:26.619+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:29:26.618+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-07-01T12:29:26.648+0000] {logging_mixin.py:188} INFO - [2026-07-01T12:29:26.648+0000] {dag.py:3823} INFO - Setting next_dagrun for pipeline_calango_investimentos to None, run_after=None
+[2026-07-01T12:29:26.688+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/calango_pipeline.py took 0.203 seconds
