@@ -23,11 +23,13 @@ O pipeline foi configurado utilizando o fuso horário `America/Sao_Paulo` (via P
 Abaixo, a comprovação do sucesso da execução da DAG, onde as 3 tarefas de extração ocorrem simultaneamente antes de acionar a carga (`load_to_database`):
 
 ### Grid View (Sucesso das Tarefas)
-![Execução com Sucesso](airflow2.png)
+![Execução com Sucesso]<img width="1358" height="610" alt="airflow2" src="https://github.com/user-attachments/assets/30598f49-73fc-4aab-ae9b-11bcbb5022e3" />
+
 *Execução registrada sem falhas na esteira de dados.*
 
 ### Graph View (Paralelismo)
-![Grafo da DAG](airflow3.png)
+![Grafo da DAG]<img width="1358" height="610" alt="airflow3" src="https://github.com/user-attachments/assets/0eaaea54-bc0f-41c1-b041-b309781bc2b2" />
+
 *O fluxo de dependências demonstrando a paralelização imposta pelos requisitos de negócio.*
 
 ## ⚖️ Testes de Escala da Infraestrutura (Workers Dinâmicos)
@@ -36,11 +38,13 @@ Para garantir que o ambiente atende à alta volumetria do novo marketplace, a in
 
 **1. Ambiente Inicial (3 Workers)**
 A arquitetura foi levantada inicialmente fixando 3 nós de processamento ativos para consumir a fila do Celery.
-![3 Workers Ativos](airflow1.png)
+![3 Workers Ativos]<img width="1358" height="677" alt="airflow1" src="https://github.com/user-attachments/assets/ba6e09c8-89f1-4c3c-85cf-e679c2069c9d" />
+
 
 **2. Redução Dinâmica (2 Workers)**
 Após testes de sobrecarga com 5 workers, a infraestrutura foi reduzida graciosamente para 2 workers sem impacto aos serviços principais (Scheduler/Webserver) ou interrupção do sistema.
-![2 Workers Ativos](airflow4.png)
+![2 Workers Ativos]<img width="1358" height="684" alt="airflow4" src="https://github.com/user-attachments/assets/8a0853c0-27a3-41d8-a777-974c686129fa" />
+
 
 ---
 *Projeto desenvolvido como parte de simulação arquitetural de Engenharia de Dados.*
