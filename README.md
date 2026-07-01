@@ -47,4 +47,3 @@ Após testes de sobrecarga com 5 workers, a infraestrutura foi reduzida graciosa
 
 
 ---
-*Projeto desenvolvido como parte de simulação arquitetural de Engenharia de Dados.*
